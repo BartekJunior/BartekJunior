@@ -4,7 +4,9 @@ My name is Bartek and I want to become a FrontEnd Developer.
 
 
 <div id="header" align="center">
- <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/lu01tsQqf1mJuHrFVq/video" width="480"></iframe></div>
+ 
+  <img src="https://giphy.com/embed/lu01tsQqf1mJuHrFVq/video" width="100"/>
+
 </div>
   
 
