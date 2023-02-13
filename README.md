@@ -42,3 +42,16 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
   <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
  </td>
 </tr>
+
+ <tr>
+    <th>Karol Klaweli</th>
+    <th>Katsail</th>
+ </tr>
+ <tr>
+  <td>
+   <img alt="Karol Klaweli" src="assets/karolklaweli.gif" width="100%"> </img>
+ </td>
+ <td>
+  <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
+ </td>
+</tr>
