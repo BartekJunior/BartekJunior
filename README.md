@@ -3,7 +3,7 @@
 My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a job in Poznan, Poland. I wish to improve my skills in building front layer of websites and applications. Right now I focus on JavaScript and I want to get better with this technology every day.
 
 <table>
- <tr align="left", width="300", border: none>
+ <tr align="left">
   <td>
    <h3>These are my favourites technologies:</h3>
    <p>
@@ -18,7 +18,7 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
      
   <td>
    <div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
    </div>
   </td>
 </table>
