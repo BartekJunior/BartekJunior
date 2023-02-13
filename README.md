@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p style="color: red; font-size: 46px;">
  My name is Bartek and I want to become a FrontEnd Developer.
-</p>
 
 <table>
  <tr align="left", border: none>
