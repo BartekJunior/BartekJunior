@@ -28,6 +28,17 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
 - ⚡ Below you can find some of my projects
 
-<img alt="dying-light2" src="assets/dying-light 2.gif" width="45%"> </img>
 
-<img alt="geforce-now" src="assets/geforce-now.gif" width="45%"> </img>
+<table>
+ <tr>
+    <th>Dying Light 2</th>
+    <th>GeforceNow</th>
+ </tr>
+ <tr>
+  <td>
+   <img alt="dying-light2" src="assets/dying-light 2.gif" width="45%"> </img>
+ </td>
+ <td>
+  <img alt="geforce-now" src="assets/geforce-now.gif" width="45%"> </img>
+ </td>
+</tr>
