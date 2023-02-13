@@ -2,7 +2,7 @@
 
 My name is Bartek and I want to become a FrontEnd Developer. 
 
-<table>
+<table style="border: none">
  <tr align="left", border: none>
   <td>
    <h3>Things I code with</h3>
