@@ -4,7 +4,7 @@ My name is Bartek and I want to become a FrontEnd Developer.
 
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq)]" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
   
 
