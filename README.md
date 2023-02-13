@@ -7,7 +7,7 @@ My name is Bartek and I want to become a FrontEnd Developer.
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white" /><br>
  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-760FF0?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
  <img alt="git" src="https://img.shields.io/badge/-Git-5f5de7?style=for-the-badge&logo=git&logoColor=white" /><br>
- <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><br>
+ <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
 </p>
 
 <div id="header" align="center">
