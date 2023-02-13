@@ -28,4 +28,4 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
 - ⚡ Below you can find some of my projects
 
-<img alt="dying-light2" src="assets/dying-light 2.gif" width="70%"> </img>
+<img alt="dying-light2" src="assets/dying-light 2.gif" width="100%"> </img>
