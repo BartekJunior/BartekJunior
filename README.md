@@ -3,7 +3,7 @@
 My name is Bartek and I want to become a FrontEnd Developer. 
 
 <table>
- <tr align="center" border: none;>
+ <tr align="left" border: none;>
   <td>
    <h3>Things I code with</h3>
    <p>
@@ -16,14 +16,16 @@ My name is Bartek and I want to become a FrontEnd Developer.
    </p>
   </td>
      
-  <td>Some other TD</td>
+  <td>
+   <div id="header" align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+   </div>
+  </td>
 </table>
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</div>
+
   
 
 Here are some ideas to get you started:
