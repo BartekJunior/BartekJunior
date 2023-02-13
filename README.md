@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking for job in local office in Poznan
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
+- ⚡ Below you can find some of my projects
 
