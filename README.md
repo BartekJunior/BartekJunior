@@ -5,7 +5,7 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
 <table>
  <tr align="left", width="300", border: none>
   <td>
-   <h3>Things I code with</h3>
+   <h3>These are my favourites technologies:</h3>
    <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white" /><br>
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-37b141?style=for-the-badge&logo=styled-components&logoColor=white" /><br>
@@ -18,7 +18,7 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
      
   <td>
    <div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
    </div>
   </td>
 </table>
