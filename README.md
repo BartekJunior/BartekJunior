@@ -3,7 +3,7 @@
 My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a job in Poznan, Poland. I wish to improve my skills in building front layer of websites and applications. Right now I focus on JavaScript and I want to get better with this technology every day.
 
 <table>
- <tr align="top">
+ <tr align="left">
   <td>
    <h3>Things I like code with:</h3>
    <p>
@@ -28,4 +28,4 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
 - ⚡ Below you can find some of my projects
 
-<img alt="dying-light2" src="assets/dying-light 2.gif" width="80%", align="center"> </img>
+<img alt="dying-light2" src="assets/dying-light 2.gif" width="80%" align="center"> </img>
