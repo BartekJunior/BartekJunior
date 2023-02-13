@@ -36,9 +36,9 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
  </tr>
  <tr>
   <td>
-   <img alt="dying-light2" src="assets/dying-light 2.gif" width="120%"> </img>
+   <img alt="dying-light2" src="assets/dying-light 2.gif" width="100%"> </img>
  </td>
  <td>
-  <img alt="geforce-now" src="assets/geforce-now.gif" width="120%"> </img>
+  <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
  </td>
 </tr>
