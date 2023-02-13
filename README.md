@@ -23,13 +23,6 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
   </td>
 </table>
 
-
-
-
-  
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking for job in local office in Poznan
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
