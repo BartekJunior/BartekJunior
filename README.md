@@ -42,7 +42,9 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
   <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
  </td>
 </tr>
+</table>
 
+<table>
  <tr>
     <th>Karol Klaweli</th>
     <th>Katsail</th>
@@ -55,3 +57,4 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
   <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
  </td>
 </tr>
+</table>
