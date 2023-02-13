@@ -4,7 +4,7 @@ My name is Bartek and I want to become a FrontEnd Developer.
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5" /><br>
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
