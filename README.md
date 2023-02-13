@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me by my email bartekprzybysz@gmail.com
 - ⚡ Below you can find some of my projects
 
+<img alt="dying-light2" src="assets/dying-light 2.gif"> </img>
