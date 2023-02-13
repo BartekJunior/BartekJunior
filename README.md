@@ -3,7 +3,7 @@
 My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a job in Poznan, Poland. I wish to improve my skills in building front layer of websites and applications. Right now I focus on JavaScript and I want to get better with this technology every day.
 
 <table>
- <tr align="left">
+ <tr align="top">
   <td>
    <h3>Things I code with:</h3>
    <p>
