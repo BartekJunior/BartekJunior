@@ -58,3 +58,18 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
  </td>
 </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Barbara Ducka</th>
+  <th>BusDrive</th>
+ </tr>
+ <tr>
+  <td>
+  <img> alt="Barbara Ducka" src="assets/barbaraducka.gif" width="100%" </img>
+  </td>
+  <td>
+   <img> alt="BusDrive" src="assets/busdrive.gif" width="100%" </img>
+  </td>
+</tr>
+</table>
