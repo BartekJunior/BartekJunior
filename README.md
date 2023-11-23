@@ -55,7 +55,7 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
  </tr>
  <tr>
   <td>
-   <a href="https://bartekjunior.github.io/karolklaweli/">
+   <a href="https://bartekjunior.github.io/KarolKlaweli/">
    <img alt="Karol Klaweli" src="assets/karolklaweli.gif" width="100%"> </img>
    </a>
  </td>
