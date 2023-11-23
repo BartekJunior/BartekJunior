@@ -60,7 +60,7 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
    </a>
  </td>
  <td>
-  <a href="https://bartekjunior.github.io/katamaran/">
+  <a href="https://bartekjunior.github.io/Katamaran/">
   <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
   </a>
  </td>
