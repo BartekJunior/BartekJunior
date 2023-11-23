@@ -41,7 +41,9 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
    </a>
  </td>
  <td>
+  <a href="https://bartekjunior.github.io/GeforceNow/">
   <img alt="geforce-now" src="assets/geforce-now.gif" width="100%"> </img>
+  </a>
  </td>
 </tr>
 </table>
@@ -53,10 +55,14 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
  </tr>
  <tr>
   <td>
+   <a href="https://bartekjunior.github.io/karolklaweli/">
    <img alt="Karol Klaweli" src="assets/karolklaweli.gif" width="100%"> </img>
+   </a>
  </td>
  <td>
+  <a href="https://bartekjunior.github.io/katamaran/">
   <img alt="katsail" src="assets/katsail.gif" width="100%"> </img>
+  </a>
  </td>
 </tr>
 </table>
@@ -68,10 +74,14 @@ My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a j
  </tr>
  <tr>
   <td>
+   <a href="https://barbaraducka.pl/">
   <img alt="Barbara Ducka" src="assets/barbaraducka.gif" width="100%"> </img>
+   </a>
   </td>
   <td>
+   <a href="https://busdrive.pl/">
    <img alt="BusDrive" src="assets/busdrive.gif" width="100%"> </img>
+   </a>
   </td>
 </tr>
 </table>
